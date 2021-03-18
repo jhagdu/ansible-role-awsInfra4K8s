@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: awsInfra4K8s
+  role_name: awsinfra4k8s
   author: Aman Jhagrolia
   description: To create a AWS Infrastructure for Kubernetes MultiNode Cluster
   company: CyberSpace
